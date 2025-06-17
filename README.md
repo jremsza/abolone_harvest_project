@@ -17,7 +17,7 @@ Draw conclusions about sustainability and harvesting guidelines based on data.
 ### 📁 Project Structure
 
 abolone-harvest/<br>
-│
+│<br>
 ├── abolone_harvest_part-1.Rmd     # Initial EDA and basic analysis<br>
 ├── abolone_harvest_part-2.Rmd     # Modeling, diagnostics, and conclusions<br>
 └── README.md                      
