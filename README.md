@@ -18,8 +18,8 @@ Draw conclusions about sustainability and harvesting guidelines based on data.
 
 abolone-harvest/
 │
-├── abolone_harvest_part-1.Rmd     # Initial EDA and basic analysis
-├── abolone_harvest_part-2.Rmd     # Modeling, diagnostics, and conclusions
+├── abolone_harvest_part-1.Rmd     # Initial EDA and basic analysis<br>
+├── abolone_harvest_part-2.Rmd     # Modeling, diagnostics, and conclusions<br>
 └── README.md                      
 
 ### 📦 Tools & Libraries Used
